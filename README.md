@@ -10,5 +10,5 @@ Link: https://www.youtube.com/watch?v=XBc-_lYDSrU
 * Back-history of Artificial Intelligence
 * Google's Deep Dream Artificial Intelligence Project
 * PowerPoint Creation
-* Video Edits
+* Video Editing
 * YouTube Video Uploads
